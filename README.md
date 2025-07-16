@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://postimg.cc/752MnmCy" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.postimg.cc/752MnmCy/Self-Portrait.jpg" width="600" alt="Self Portrait"/>
-  </a>
-</p>
-
 # 👋 Hi, I'm Felipe De Vicente
 
 I'm a Brazilian visual artist, electronic music composer, and independent digital creator.  
