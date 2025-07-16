@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://postimg.cc/XGR5dS7J" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.postimg.cc/XGR5dS7J/Self-Portrait-1.jpg" width="600" alt="Self Portrait"/>
+  <a href="https://postimg.cc/752MnmCy" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.postimg.cc/752MnmCy/Self-Portrait.jpg" width="600" alt="Self Portrait"/>
   </a>
 </p>
 
@@ -34,35 +34,35 @@ Each piece is both an auditory and visual experience — often paired with one o
   <tr>
     <td align="center">
       <a href="https://felipedevicente.lojaintegrada.com.br/obra-de-arte-art-131" target="_blank" rel="noopener noreferrer">
-        <img src="https://i.postimg.cc/K3TnHcsB/ART-131.jpg" width="180" alt="ART 131"/><br/>
+        <img src="https://i.postimg.cc/Vr1R6nkP/ART-131.jpg" width="180" alt="ART 131"/><br/>
         <sub><strong>ART 131</strong></sub>
       </a><br/>
       🎧 [Listen on Spotify](https://open.spotify.com/track/7BDCnmb5qs7rvLnFBY0ofz)
     </td>
     <td align="center">
       <a href="https://felipedevicente.lojaintegrada.com.br/obra-de-arte-art-134" target="_blank" rel="noopener noreferrer">
-        <img src="https://i.postimg.cc/V50B64Lv/ART-134.jpg" width="180" alt="ART 134"/><br/>
+        <img src="https://i.postimg.cc/xkL5ntYP/ART-134.jpg" width="180" alt="ART 134"/><br/>
         <sub><strong>ART 134</strong></sub>
       </a><br/>
       🎧 [Listen on Spotify](https://open.spotify.com/track/3ybOwTSfb6sZ8ldt0auC9O)
     </td>
     <td align="center">
       <a href="https://felipedevicente.lojaintegrada.com.br/obra-de-arte-art-136" target="_blank" rel="noopener noreferrer">
-        <img src="https://i.postimg.cc/FYNjT4bk/ART-136.jpg" width="180" alt="ART 136"/><br/>
+        <img src="https://i.postimg.cc/kRgvNCSj/ART-136.jpg" width="180" alt="ART 136"/><br/>
         <sub><strong>ART 136</strong></sub>
       </a><br/>
       🎧 [Listen on Spotify](https://open.spotify.com/track/0cA0wYxheiBkEJAdAzaNSS)
     </td>
     <td align="center">
       <a href="https://felipedevicente.lojaintegrada.com.br/obra-de-arte-art-146" target="_blank" rel="noopener noreferrer">
-        <img src="https://i.postimg.cc/6ydrV3ZN/ART-146.jpg" width="180" alt="ART 146"/><br/>
+        <img src="https://i.postimg.cc/qhLGCqNh/ART-146.jpg" width="180" alt="ART 146"/><br/>
         <sub><strong>ART 146</strong></sub>
       </a><br/>
       🎧 [Listen on Spotify](https://open.spotify.com/track/1E882GAeT5L78lbth6DoFm)
     </td>
     <td align="center">
       <a href="https://felipedevicente.lojaintegrada.com.br/obra-de-arte-art-153" target="_blank" rel="noopener noreferrer">
-        <img src="https://i.postimg.cc/2VpdBvVw/ART-153.jpg" width="180" alt="ART 153"/><br/>
+        <img src="https://i.postimg.cc/nCM1CHpr/ART-153.jpg" width="180" alt="ART 153"/><br/>
         <sub><strong>ART 153</strong></sub>
       </a><br/>
       🎧 [Listen on Spotify](https://open.spotify.com/track/57Ulv9j5OdcwKfNPS5wmUF)
@@ -71,28 +71,35 @@ Each piece is both an auditory and visual experience — often paired with one o
   <tr>
     <td align="center">
       <a href="https://felipedevicente.lojaintegrada.com.br/obra-de-arte-art-154" target="_blank" rel="noopener noreferrer">
-        <img src="https://i.postimg.cc/NKDRVzbJ/ART-154.jpg" width="180" alt="ART 154"/><br/>
+        <img src="https://i.postimg.cc/RqSdx7Yc/ART-154.jpg" width="180" alt="ART 154"/><br/>
         <sub><strong>ART 154</strong></sub>
       </a><br/>
       🎧 [Listen on Spotify](https://open.spotify.com/track/07I4x6u14o5wlWeA7mlQ33)
     </td>
     <td align="center">
       <a href="https://felipedevicente.lojaintegrada.com.br/obra-de-arte-art-155" target="_blank" rel="noopener noreferrer">
-        <img src="https://i.postimg.cc/fttXVTsp/ART-155.jpg" width="180" alt="ART 155"/><br/>
+        <img src="https://i.postimg.cc/xc73mW1R/ART-155.jpg" width="180" alt="ART 155"/><br/>
         <sub><strong>ART 155</strong></sub>
       </a><br/>
       🎧 [Listen on Spotify](https://open.spotify.com/track/0B0bxsbomrPwoJH7w2Ky7o)
     </td>
     <td align="center">
       <a href="https://felipedevicente.lojaintegrada.com.br/obra-de-arte-art-172" target="_blank" rel="noopener noreferrer">
-        <img src="https://i.postimg.cc/v1Sf8xJ5/ART-173.jpg" width="180" alt="ART 173"/><br/>
+        <img src="https://i.postimg.cc/V5KRfSy2/ART-172.jpg" width="180" alt="ART 172"/><br/>
+        <sub><strong>ART 172</strong></sub>
+      </a><br/>
+      🎧 [Listen on Spotify](https://open.spotify.com/track/0e0oVvZEimSmxIk1cPs5fq)
+    </td>
+    <td align="center">
+      <a href="https://felipedevicente.lojaintegrada.com.br/obra-de-arte-art-173" target="_blank" rel="noopener noreferrer">
+        <img src="https://i.postimg.cc/jW6HG2Qg/ART-173.jpg" width="180" alt="ART 173"/><br/>
         <sub><strong>ART 173</strong></sub>
       </a><br/>
       🎧 [Listen on Spotify](https://open.spotify.com/track/6wTxkhLFa9nMlJLec5NTNZ)
     </td>
     <td align="center">
       <a href="https://felipedevicente.lojaintegrada.com.br/obra-de-arte-art-174" target="_blank" rel="noopener noreferrer">
-        <img src="https://i.postimg.cc/d70GKjxq/ART-174.jpg" width="180" alt="ART 174"/><br/>
+        <img src="https://i.postimg.cc/061GWDmK/ART-174.jpg" width="180" alt="ART 174"/><br/>
         <sub><strong>ART 174</strong></sub>
       </a><br/>
       🎧 [Listen on Spotify](https://open.spotify.com/track/3Lt3jZWINViUuPWY2daypN)
