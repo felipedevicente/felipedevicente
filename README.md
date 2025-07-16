@@ -103,5 +103,4 @@ Each piece is both an auditory and visual experience — often paired with one o
       🎧 [Listen on Spotify](https://open.spotify.com/track/3Lt3jZWINViUuPWY2daypN)
     </td>
   </tr>
-</table>
-<img src="https://raw.githubusercontent.com/felipedevicente/Abstract-Art/main/art131.jpg" width="300" />
+<img src="https://github.com/felipedevicente/Abstract-Art/blob/main/art131.jpg?raw=true" width="300"/>
